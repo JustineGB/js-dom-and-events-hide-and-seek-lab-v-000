@@ -6,10 +6,10 @@ function nestedTarget(nestedTarget){    //Nested = ID, Target = CLASS
  return document.querySelector('#nested .target');
 }
 
-function deepestChild() {  //deepest node in #grand-node
+function deepestChild(){  //deepest node in #grand-node
   return document.querySelector('#grand-node');
 }
 
-function increaseRankBy(n) {
-  
+function increaseRankBy(n){
+  return document.querySelectorAll();
 }

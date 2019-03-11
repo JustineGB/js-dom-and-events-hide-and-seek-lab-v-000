@@ -1,1 +1,1 @@
-const firstSelector = document.getFirstSelector(selector)
+let firstSelector = document.getFirstSelector(selector)

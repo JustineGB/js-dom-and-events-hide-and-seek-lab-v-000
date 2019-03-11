@@ -12,5 +12,6 @@ function deepestChild(){  //deepest node in #grand-node ('boo' 4 divs deep)
 
 function increaseRankBy(n){
   const rankedList = document.querySelectorAll('.ranked-list');
-  console.log(`${rankedList}`);
+  let increasedRank = rankedList * n 
+  return increasedRank;
 }

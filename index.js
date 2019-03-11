@@ -7,5 +7,5 @@ function nestedTarget(nestedTarget){    //Nested = ID, Target = CLASS
 }
 
 function deepestChild() {  //deepest node in #grand-node
-  return document.querySelector(#grand-node);
+  return document.querySelector('#grand-node');
 }

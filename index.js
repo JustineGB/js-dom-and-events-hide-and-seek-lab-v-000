@@ -7,7 +7,7 @@ function nestedTarget(nestedTarget){    //Nested = ID, Target = CLASS
 }
 
 function deepestChild(){  //deepest node in #grand-node ('boo' 4 divs deep)
-  return document.querySelector('#grand-node')[3];
+  return document.querySelector('#grand-node div div div div');
 }
 
 function increaseRankBy(n){

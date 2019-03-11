@@ -1,2 +1,3 @@
-let firstSelector = document.getFirstSelector(selector)
-for (let )
+function getFirstSelector(selector) {
+  return document.getFirstSelector(selector);
+}

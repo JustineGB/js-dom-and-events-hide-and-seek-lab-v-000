@@ -1,1 +1,1 @@
-const firstSelector = getFirstSelector(selector)
+const firstSelector = document.getFirstSelector(selector)

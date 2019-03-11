@@ -1,1 +1,1 @@
-getFirstSelector(selector)
+const firstSelector = getFirstSelector(selector)
